@@ -35,7 +35,7 @@ html {
 .hand {
   width: 14px;
   position: absolute;
-  bottom: 50%;
+  bottom: 47.5%;
   right: calc(50% - 7px);
 }
 
@@ -45,7 +45,7 @@ html {
 }
 
 .hand-minute {
-	transform-origin: bottom;
+  transform-origin: bottom;
   animation: spin .5s infinite linear;
 }
 
