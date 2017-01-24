@@ -49,7 +49,7 @@ html {
   animation: spin .5s infinite linear;
 }
 
-@keyframe spin {
+@keyframes spin {
 
   0% { transform: rotate(0deg); }
 
